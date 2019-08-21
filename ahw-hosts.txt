@@ -1,6 +1,7 @@
 # Created by AHW
-# 172.0.0.1 localhost
-# ::1 localhost
+172.0.0.1 localhost
+0.0.0.0 localhost
+::1 localhost
 
 # Google	
 0.0.0.0	www.googleadservices.com
