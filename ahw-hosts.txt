@@ -7,7 +7,7 @@
 # iPhone 6
 
 # Test
-127.0.0.1		google.com
+127.0.0.1		facebook.com
 	
 # Facebook
 127.0.0.1       	graph.facebook.com
