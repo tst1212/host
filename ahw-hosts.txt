@@ -2,4 +2,13 @@
 # 172.0.0.1 localhost
 # ::1 localhost
 
-0.0.0.0 facebook.com
+# Google	
+0.0.0.0	www.googleadservices.com
+0.0.0.0	googleads.g.doubleclick.net
+0.0.0.0	securepubads.g.doubleclick.net
+0.0.0.0	ad.doubleclick.net
+0.0.0.0	ssl.google-analytics.com
+0.0.0.0	clients1.google.com
+0.0.0.0	adservice.google.de
+0.0.0.0	ade.googlesyndication.com
+0.0.0.0	id.google.de
