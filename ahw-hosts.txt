@@ -1,12 +1,12 @@
 # Created by AHW
 
-# Facebook
 ahwconsult.com
+# Facebook
 facebook.com
 graph.facebook.com
 b-graph.facebook.com
 a-graph.facebook.com
-127.0.0.1   graph.instagram.com
-127.0.0.1   b-api.facebook.com
-127.0.0.1   edge-mqtt.facebook.com
-127.0.0.1   mqtt-mini.facebook.com
+graph.instagram.com
+b-api.facebook.com
+edge-mqtt.facebook.com
+mqtt-mini.facebook.com
