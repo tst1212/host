@@ -1,15 +1,7 @@
-# Created with:
-# AHW
-	
-# LineageOS 14.1
-# Android 6 on Huawei
-# Android 8 OnePlus
-# iPhone 6
+# Created by AHW
 
-# Test
-127.0.0.1		facebook.com
-	
 # Facebook
+127.0.0.1		facebook.com
 127.0.0.1       	graph.facebook.com
 127.0.0.1       	b-graph.facebook.com
 127.0.0.1       	a-graph.facebook.com
