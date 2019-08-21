@@ -1,8 +1,8 @@
 # Created by AHW
 
-ahwconsult.com
+172.0.0.1 ahwconsult.com
 # Facebook
-facebook.com
+172.0.0.1 facebook.com
 graph.facebook.com
 b-graph.facebook.com
 a-graph.facebook.com
